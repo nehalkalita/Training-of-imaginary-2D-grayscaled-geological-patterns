@@ -3,11 +3,11 @@ Training of imaginary 2D grayscaled geological patterns using a Convolutional Ne
 
 ![alt text](train_data_classes.png)
 
-Class 1 patterns are imaginary artefacts
+Class 1 patterns are imaginary __artefacts__
 
-Class 2 patterns are imaginary peaks
+Class 2 patterns are imaginary __peaks__
 
-Class 3 patterns are imaginary flat (planar) areas
+Class 3 patterns are imaginary __flat (planar) areas__
 
 Run the script `train_model.py` to train a model using the images in the directories `class1`, `class2` and `class3`. 
 
