@@ -7,7 +7,7 @@ Class 1 patterns are imaginary __artefacts__
 
 Class 2 patterns are imaginary __peaks__
 
-Class 3 patterns are imaginary __flat (planar) areas__
+Class 3 patterns are imaginary __other areas__
 
 Run the script `train_model.py` to train a model using the images in the directories `class1`, `class2` and `class3`. 
 
